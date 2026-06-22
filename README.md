@@ -8,8 +8,7 @@ I build modern apps, connected systems, and practical products across web, mobil
 
 [![Profile Views](https://komarev.com/ghpvc/?username=duetianmehedishuvo&color=blueviolet)](https://github.com/duetianmehedishuvo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duetianmehedishuvo/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/shuvo.bepare.bd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duetianmehedishuvo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehedihasanshuvo.mail@gmail.com)
 
 </div>
 
@@ -136,9 +135,8 @@ That’s why my profile shows a mix of **Flutter, IoT, robotics, edge-oriented i
 
 If you want to collaborate or just say hello, feel free to reach out:
 
-- 📧 **Email:** duetianmehedishuvo@gmail.com
+- 📧 **Email:** mehedihasanshuvo.mail@gmail.com
 - 💼 **LinkedIn:** [duetianmehedishuvo](https://www.linkedin.com/in/duetianmehedishuvo/)
-- 📘 **Facebook:** [shuvo.bepare.bd](https://web.facebook.com/shuvo.bepare.bd)
 
 ---
 
