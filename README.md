@@ -1,40 +1,76 @@
 <div align="center">
 
-# Hello, I'm Mehedi Hasan Shuvo!
+# Hi 👋, I'm Mehedi Hasan Shuvo
 
-### Who am I?
+### Full-Stack Developer • Problem Solver • Tech Enthusiast
 
-I am a developer who enjoys creating apps and solutions for random challenges.
+I build modern web apps, practical tools, and clean digital experiences.
 
-### What do I do?
-
-I work as a full-stack developer, and in my free time, I enjoy developing solutions for problems that I come across.
-
-### When do I do that?
-
-Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks. The thing is, I tend to start a bunch of random stuff but rarely finish them. Still, I find it exciting to learn new things while working on these projects.
-
-### What are your projects?
-
-I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete. 
-
-You can check my repositories [here](https://github.com/duetianmehedishuvo?tab=repositories).
-
-### Want to work together?
-
-If you're interested in working together on a project or just want to chat, please get in touch with me at [duetianmehedishuvo@gmail.com](mailto:duetianmehedishuvo@gmail.com)!
+[![Profile Views](https://komarev.com/ghpvc/?username=duetianmehedishuvo&color=blueviolet)](https://github.com/duetianmehedishuvo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duetianmehedishuvo/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/shuvo.bepare.bd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:duetianmehedishuvo@gmail.com)
 
 </div>
 
 ---
 
+## About Me
+
+I’m a developer who enjoys turning ideas into useful products. I focus on building clean, responsive, and user-friendly applications while continuously exploring new tools and technologies.
+
+- 🔭 Currently working on full-stack projects
+- 🌱 Learning and experimenting with modern technologies
+- 💡 Enjoy solving problems through code
+- 🚀 Like building practical products that help people
+
+---
+
+## What I Do
+
+- **Web Development** — responsive, modern, and maintainable applications
+- **App & Product Development** — personal projects and useful digital solutions
+- **Problem Solving** — turning random ideas into working products
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,figma&theme=dark" />
+</p>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duetianmehedishuvo&layout=compact&theme=rose_pine" alt="Top Langs" height="175">
-    <img src="https://github-readme-stats.vercel.app/api?username=duetianmehedishuvo&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="175">
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=duetianmehedishuvo&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duetianmehedishuvo&layout=compact&theme=tokyonight" height="170" />
 </div>
 
-<a href="https://www.linkedin.com/in/duetianmehedishuvo/"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
-<a href="https://web.facebook.com/shuvo.bepare.bd"><img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
-<a href="https://play.google.com/store/apps/dev?id=5439194968291709425"><img src="https://www.iconfinder.com/icons/2993672/download/png/64"/></a>
+---
+
+## Featured Work
+
+I mostly work on personal projects, but some of my public work is available here:
+
+👉 [View My Repositories](https://github.com/duetianmehedishuvo?tab=repositories)
+
+---
+
+## Contact
+
+If you want to collaborate or just say hello, feel free to reach out:
+
+- 📧 **Email:** duetianmehedishuvo@gmail.com
+- 💼 **LinkedIn:** [duetianmehedishuvo](https://www.linkedin.com/in/duetianmehedishuvo/)
+- 📘 **Facebook:** [shuvo.bepare.bd](https://web.facebook.com/shuvo.bepare.bd)
+
+---
+
+<div align="center">
+
+### Thanks for visiting আমার profile ✨
+
+</div>
