@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Mehedi Hasan Shuvo
 
-### Full-Stack Developer • Problem Solver • Tech Explorer
+### Full-Stack Developer • Flutter Developer • IoT & Robotics Enthusiast • Problem Solver
 
-I build modern web apps, practical tools, and user-friendly digital experiences with a focus on clean design and real-world impact.
+I build modern apps, connected systems, and practical products across web, mobile, IoT, edge programming, and robotics.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=duetianmehedishuvo&color=blueviolet)](https://github.com/duetianmehedishuvo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duetianmehedishuvo/)
@@ -17,74 +17,108 @@ I build modern web apps, practical tools, and user-friendly digital experiences 
 
 ## About Me
 
-I’m a developer who enjoys turning ideas into useful products. I like building clean, responsive, and easy-to-use applications while learning new tools and improving every day.
+I’m a multi-domain developer who enjoys transforming ideas into useful products. My work spans Flutter apps, web development, backend APIs, IoT-based systems, research projects, and embedded/problem-solving work.
 
-- 🔭 Currently working on **full-stack projects**
-- 🌱 Exploring **modern frameworks, tooling, and best practices**
-- 💡 Enjoy solving problems with **practical code solutions**
-- 🚀 Like building products that feel polished and useful
-- 🎯 Focused on **quality, usability, and continuous growth**
+- 🔭 Currently building **Flutter apps, web systems, and IoT-based solutions**
+- 🌱 Exploring **edge programming, robotics, and modern software architecture**
+- 💡 Enjoy solving real-world problems with code and hardware
+- 🚀 Like turning concepts into polished, working products
+- 🎯 Focused on **quality, usability, innovation, and practical impact**
 
 ---
 
-## What I Do
+## What I Work On
 
 <div align="center">
 
-| Area | What I Work On |
+| Area | What I Build |
 |---|---|
-| 🌐 Web Development | Responsive websites, dashboards, landing pages, and modern web apps |
-| 🧩 Full-Stack Solutions | Frontend + backend integrations, APIs, databases, and deployment-ready projects |
-| 📱 Product Development | Personal projects, utility apps, and practical digital tools |
-| 🛠 Problem Solving | Turning random ideas and real-world needs into working solutions |
+| 📱 Flutter & Mobile Apps | Android/mobile apps, UI-focused apps, utility apps, app architecture, notifications, authentication |
+| 🌐 Web Development | Responsive websites, dashboards, portfolios, admin panels, and web-based tools |
+| 🧩 Backend & API Development | REST APIs, CRUD systems, authentication flows, and database-driven applications |
+| 📡 IoT & Embedded Systems | Sensor-based projects, load control, solar-based monitoring, safety systems, and connected devices |
+| 🤖 Robotics & Edge Programming | Stability analysis, automation logic, edge-oriented solutions, and hardware-aware software work |
+| 📊 Research & ML Practice | Prediction models, analytics notebooks, experiments, and research-driven prototypes |
+| 🛠 Problem Solving | Competitive programming, practice repositories, compiler/design exercises, and algorithmic thinking |
 
 </div>
 
 ---
 
-## Languages & Technologies I Work With
+## Languages, Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,html,css,react,nextjs,nodejs,express,php,python,c,cpp,cs,java,mysql,mongodb,firebase,git,github,linux,arduino,raspberrypi,figma,vscode&theme=dark" />
 </p>
 
-### Quick Analysis
+### Quick Skill Breakdown
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Bootstrap
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Figma
-
----
-
-## What I Usually Build
-
-- Modern portfolio and profile websites
-- Responsive landing pages
-- Full-stack web applications
-- API-driven projects
-- Utility tools and personal experiments
-- Clean UI-focused projects
+- **Mobile:** Flutter, Dart, Firebase, app architecture, UI/UX, notifications, authentication
+- **Web:** JavaScript, TypeScript, React, Next.js, HTML, CSS, responsive design
+- **Backend:** Node.js, Express, PHP, C#, APIs, database systems
+- **Data & ML:** Python, Jupyter Notebook, analytics, prediction models, research notebooks
+- **IoT / Embedded:** C, C++, Arduino, hardware-connected logic, sensor-based systems
+- **Tools:** Git, GitHub, Linux, VS Code, Figma
 
 ---
 
-## GitHub Highlights
+## My Project Types
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duetianmehedishuvo&theme=tokyonight" alt="GitHub summary" />
-</div>
+I usually work on a mix of:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duetianmehedishuvo&theme=tokyonight" height="170" />
-</div>
+- Flutter apps and app boilerplates
+- E-commerce and utility products
+- Hospital/clinic and management systems
+- IoT monitoring and control solutions
+- Research-based prototypes
+- AI/ML and data analysis notebooks
+- Practice repositories for C++, Python, PHP, Java, and C#
+- Robotics-related and edge-oriented experiments
 
 ---
 
-## Featured Work
+## Featured Areas From My Repositories
 
-I mostly work on personal and experimental projects, but some of my public work is available here:
+Here are some examples of the kinds of work I do:
 
-👉 [View My Repositories](https://github.com/duetianmehedishuvo?tab=repositories)
+- **Flutter apps:** portfolio apps, clinic apps, chat apps, travel apps, notification apps, stock and management apps
+- **IoT projects:** solar-powered monitoring, load control, women safety, child safety, fish farming aerator systems
+- **Robotics / edge / research:** robotic stability prediction, image-to-text, research-based ML projects, analytics notebooks
+- **Backend / web systems:** APIs, CRUD platforms, dashboards, e-commerce platforms, admin panels
+- **Programming practice:** C++, Python, Assembly, Java, PHP, Shell, and more
+
+---
+
+## Highlighted Repositories
+
+Some public repositories that reflect my work style:
+
+- [Iot-based-solar-systems](https://github.com/engrmehedihasanshuvo/Iot-based-solar-systems)
+- [Iot-based-Load-Control](https://github.com/engrmehedihasanshuvo/Iot-based-Load-Control)
+- [IoT-Based-Solar-Powered-Aerator-for-Fish-Faring](https://github.com/engrmehedihasanshuvo/IoT-Based-Solar-Powered-Aerator-for-Fish-Faring)
+- [child_safety_with_iot](https://github.com/engrmehedihasanshuvo/child_safety_with_iot)
+- [IOT_Based_women_safety](https://github.com/engrmehedihasanshuvo/IOT_Based_women_safety)
+- [DUET_Clinic_Flutter_Project](https://github.com/engrmehedihasanshuvo/DUET_Clinic_Flutter_Project)
+- [Responsive-and-Animated-Portfolio-Flutter](https://github.com/engrmehedihasanshuvo/Responsive-and-Animated-Portfolio-Flutter)
+- [face_recognition_authentication](https://github.com/engrmehedihasanshuvo/face_recognition_authentication)
+- [RoboticStabilityPredictor](https://github.com/engrmehedihasanshuvo/RoboticStabilityPredictor)
+- [Django_Country_city_search](https://github.com/engrmehedihasanshuvo/Django_Country_city_search)
+- [titas_gas_api](https://github.com/engrmehedihasanshuvo/titas_gas_api)
+- [numpy-repo-analytics](https://github.com/engrmehedihasanshuvo/numpy-repo-analytics)
+
+---
+
+## What Makes My Work Interesting
+
+I don’t focus on just one stack. I like combining different domains:
+
+- mobile + backend
+- web + API
+- software + hardware
+- research + implementation
+- UI + functionality
+
+That’s why my profile shows a mix of **Flutter, IoT, robotics, edge-oriented ideas, backend systems, and programming practice**.
 
 ---
 
