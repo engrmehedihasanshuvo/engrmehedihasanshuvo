@@ -147,6 +147,6 @@ If you want to collaborate or just say hello, feel free to reach out:
 
 <div align="center">
 
-### Thanks for visiting আমার profile ✨
+### Thanks for visiting my profile ✨
 
 </div>
